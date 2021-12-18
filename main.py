@@ -11,8 +11,12 @@ model = MODEL
 pk = 1
 
 
+with open('books.txt') as f:
+    count = sum(1 for _ in f)
+
+
 def book_line_gen():
-    book_line = randint(0, 4)
+    book_line = randint(0, count - 1)
     return book_line
 
 
@@ -88,3 +92,4 @@ def _json():
 if __name__ == "__main__":
     main()
     _json()
+    print(count)
