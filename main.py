@@ -11,17 +11,24 @@ model = MODEL
 pk = 1
 
 
-with open('books.txt') as f:
-    count = sum(1 for _ in f)
+#with open('books.txt') as f:
+
+    #count = sum(1 for _ in f)
 
 
-def book_line_gen():
-    book_line = randint(0, count - 1)
-    return book_line
+
+#def book_line_gen():
+    #book_line = randint(0, count - 1)
+    #return book_line
 
 
 def book_title_gen():
-    book_title = linecache.getline('books.txt', book_line_gen())
+    #book_title = linecache.getline('books.txt', book_line_gen())
+    f = open('books.txt')
+    data = f.read()
+    lines = data.split('\n')
+    line = random.randrange(len(lines))
+    book_title = lines[line]
     return book_title
 
 
@@ -92,4 +99,3 @@ def _json():
 if __name__ == "__main__":
     main()
     _json()
-    print(count)
