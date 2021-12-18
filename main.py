@@ -5,25 +5,11 @@ import linecache
 from conf import MODEL
 from faker import Faker
 faker = Faker()
-# Faker.seed(0)
-
 model = MODEL
 pk = 1
 
 
-#with open('books.txt') as f:
-
-    #count = sum(1 for _ in f)
-
-
-
-#def book_line_gen():
-    #book_line = randint(0, count - 1)
-    #return book_line
-
-
 def book_title_gen():
-    #book_title = linecache.getline('books.txt', book_line_gen())
     f = open('books.txt')
     data = f.read()
     lines = data.split('\n')
@@ -62,10 +48,10 @@ def author_gen():
     return author
 
 
-def book_gen(pk=1):
+def book_gen(k=1):
     while True:
         yield {"model": model,
-               "pk": pk,
+               "pk": k,
                "fields": {
                    "title": book_title_gen(),
                    "year": year_gen(),
@@ -76,7 +62,7 @@ def book_gen(pk=1):
                    "author": author_gen()
                }
                }
-        pk += 1
+        k += 1
 
 
 list_books = []
