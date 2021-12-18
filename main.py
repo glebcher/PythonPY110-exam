@@ -2,12 +2,12 @@ import random
 from random import randint
 import json
 import linecache
-
+from conf import MODEL
 from faker import Faker
 faker = Faker()
 # Faker.seed(0)
 
-model = linecache.getline("conf.py", 1)
+model = MODEL
 pk = 1
 
 
@@ -50,6 +50,7 @@ def isbn13_gen():
     while True:
         isbn13 = f'{faker.isbn13()}'
         return isbn13
+
 
 def author_gen():
     while True:
