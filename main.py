@@ -17,45 +17,38 @@ def book_line_gen():
 
 
 def book_title_gen():
-    while True:
-        book_title = linecache.getline('books.txt', book_line_gen())
-        return book_title
+    book_title = linecache.getline('books.txt', book_line_gen())
+    return book_title
 
 
 def year_gen():
-    while True:
-        year = randint(1900, 2010)
-        return year
+    year = randint(1900, 2010)
+    return year
 
 
 def pages_gen():
-    while True:
-        pages = randint(150, 300)
-        return pages
+    pages = randint(150, 300)
+    return pages
 
 
 def rating_gen():
-    while True:
-        rating = random.uniform(0.0, 5.1)
-        return rating
+    rating = random.uniform(0.0, 5.1)
+    return rating
 
 
 def price_gen():
-    while True:
-        price = random.uniform(1.0, 25.6)
-        return price
+    price = random.uniform(1.0, 25.6)
+    return price
 
 
 def isbn13_gen():
-    while True:
-        isbn13 = f'{faker.isbn13()}'
-        return isbn13
+    isbn13 = f'{faker.isbn13()}'
+    return isbn13
 
 
 def author_gen():
-    while True:
-        author = f'{faker.name()}'
-        return author
+    author = f'{faker.name()}'
+    return author
 
 
 def book_gen(pk=1):
