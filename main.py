@@ -42,12 +42,12 @@ def price_gen():
 
 
 def isbn13_gen():
-    isbn13 = f'{faker.isbn13()}'
+    isbn13 = faker.isbn13()
     return isbn13
 
 
 def author_gen():
-    author = f'{faker.name()}'
+    author = faker.name()
     return author
 
 
