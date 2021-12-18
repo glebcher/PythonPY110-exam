@@ -90,10 +90,8 @@ def main():
 
 
 def _json():
-    jsonString = json.dumps(list_books, indent=4, ensure_ascii=False)
-    jsonFile = open("data.json", "w")
-    jsonFile.write(jsonString)
-    jsonFile.close()
+    with open("data.json", "w") as file:
+        json.dump(list_books, file, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":
