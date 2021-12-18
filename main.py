@@ -3,8 +3,8 @@ from random import randint
 import json
 import linecache
 
-# from faker import Faker
-
+from faker import Faker
+faker = Faker()
 # Faker.seed(0)
 
 model = linecache.getline("conf.py", 1)
@@ -46,8 +46,15 @@ def price_gen():
         return price
 
 
-isbn13 = '13-32'  # Faker.isbn13()
-author = 'John Doe'  # Faker.name()
+def isbn13_gen():
+    while True:
+        isbn13 = f'{faker.isbn13()}'
+        return isbn13
+
+def author_gen():
+    while True:
+        author = f'{faker.name()}'
+        return author
 
 
 def book_gen(pk=1):
@@ -58,10 +65,10 @@ def book_gen(pk=1):
                    "title": book_title_gen(),
                    "year": year_gen(),
                    "pages": pages_gen(),
-                   "isbn13": isbn13,
+                   "isbn13": isbn13_gen(),
                    "rating": rating_gen(),
                    "price": price_gen(),
-                   "author": author
+                   "author": author_gen()
                }
                }
         pk += 1

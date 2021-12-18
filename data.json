@@ -3,104 +3,104 @@
         "model": "shop_final.book\n",
         "pk": 1,
         "fields": {
-            "title": "",
-            "year": 2002,
-            "pages": 180,
-            "isbn13": "13-32",
-            "rating": 2.6074141118506495,
-            "price": 1.406727517168852,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 2010,
+            "pages": 165,
+            "isbn13": "978-1-958848-34-0",
+            "rating": 3.666250767482624,
+            "price": 24.140748419091125,
+            "author": "Samantha Mckee"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 2,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1948,
-            "pages": 169,
-            "isbn13": "13-32",
-            "rating": 4.774975670172636,
-            "price": 10.47308808381171,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1989,
+            "pages": 157,
+            "isbn13": "978-0-7513-7067-6",
+            "rating": 4.979332243831452,
+            "price": 2.6081171151950695,
+            "author": "Emily Williams"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 3,
         "fields": {
-            "title": "",
-            "year": 1999,
-            "pages": 238,
-            "isbn13": "13-32",
-            "rating": 0.3888263455773637,
-            "price": 16.272547978457172,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1947,
+            "pages": 276,
+            "isbn13": "978-0-7889-2243-5",
+            "rating": 2.4500619425594943,
+            "price": 4.931715214201114,
+            "author": "Christopher Wallace"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 4,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1912,
-            "pages": 265,
-            "isbn13": "13-32",
-            "rating": 0.17976316215888752,
-            "price": 23.993228576542016,
-            "author": "John Doe"
+            "title": "",
+            "year": 1931,
+            "pages": 238,
+            "isbn13": "978-0-526-22269-8",
+            "rating": 4.473803844287563,
+            "price": 21.75215538457975,
+            "author": "Hector Mann"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 5,
         "fields": {
-            "title": "",
-            "year": 1946,
-            "pages": 165,
-            "isbn13": "13-32",
-            "rating": 4.190568929712026,
-            "price": 22.92426394461701,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1920,
+            "pages": 213,
+            "isbn13": "978-0-945022-33-6",
+            "rating": 1.277702626368914,
+            "price": 3.690585060739516,
+            "author": "Sarah Robertson"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 6,
         "fields": {
-            "title": "",
-            "year": 1977,
-            "pages": 177,
-            "isbn13": "13-32",
-            "rating": 0.12123479100276474,
-            "price": 18.005218000279392,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1968,
+            "pages": 196,
+            "isbn13": "978-0-9855888-7-8",
+            "rating": 1.9461362697616988,
+            "price": 23.721444066257067,
+            "author": "Christopher Evans"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 7,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1925,
-            "pages": 221,
-            "isbn13": "13-32",
-            "rating": 2.987967626242041,
-            "price": 2.5013556977675746,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1906,
+            "pages": 190,
+            "isbn13": "978-1-4121-9161-6",
+            "rating": 3.380582546336883,
+            "price": 14.730557539131691,
+            "author": "Brittany Harris"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 8,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1924,
-            "pages": 151,
-            "isbn13": "13-32",
-            "rating": 2.028145306645909,
-            "price": 8.130656748032056,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1964,
+            "pages": 265,
+            "isbn13": "978-0-297-75524-1",
+            "rating": 1.1365903346683726,
+            "price": 25.218565507672977,
+            "author": "Sara Walters"
         }
     },
     {
@@ -108,116 +108,116 @@
         "pk": 9,
         "fields": {
             "title": "",
-            "year": 2004,
-            "pages": 180,
-            "isbn13": "13-32",
-            "rating": 0.5862628505442952,
-            "price": 21.82361540668569,
-            "author": "John Doe"
+            "year": 1900,
+            "pages": 183,
+            "isbn13": "978-0-317-75581-7",
+            "rating": 4.335582925081387,
+            "price": 9.682221686008173,
+            "author": "Brian Adams"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 10,
         "fields": {
-            "title": "",
-            "year": 1913,
-            "pages": 211,
-            "isbn13": "13-32",
-            "rating": 4.660892447232886,
-            "price": 17.7691014001239,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 2006,
+            "pages": 179,
+            "isbn13": "978-1-260-10792-0",
+            "rating": 2.626716601984755,
+            "price": 20.46873112216311,
+            "author": "Scott Ross"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 11,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 2006,
-            "pages": 201,
-            "isbn13": "13-32",
-            "rating": 1.3639525171247524,
-            "price": 13.9757442180108,
-            "author": "John Doe"
+            "title": "",
+            "year": 1955,
+            "pages": 200,
+            "isbn13": "978-1-964473-50-5",
+            "rating": 0.8997192726602817,
+            "price": 17.90890779348447,
+            "author": "David Castillo"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 12,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1999,
-            "pages": 185,
-            "isbn13": "13-32",
-            "rating": 4.742559119647685,
-            "price": 19.45475290819755,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1920,
+            "pages": 170,
+            "isbn13": "978-1-316-12922-7",
+            "rating": 1.331259298142774,
+            "price": 8.40623520468342,
+            "author": "April Matthews"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 13,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1979,
-            "pages": 285,
-            "isbn13": "13-32",
-            "rating": 2.7098763807882125,
-            "price": 21.00070606548188,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1915,
+            "pages": 272,
+            "isbn13": "978-1-81138-145-8",
+            "rating": 3.861271964488986,
+            "price": 23.66875250634822,
+            "author": "Joseph Brown"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 14,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1969,
-            "pages": 204,
-            "isbn13": "13-32",
-            "rating": 2.954752512793873,
-            "price": 7.24467886837504,
-            "author": "John Doe"
+            "title": "",
+            "year": 1916,
+            "pages": 216,
+            "isbn13": "978-1-137-36005-2",
+            "rating": 4.392397062862921,
+            "price": 20.59125170400748,
+            "author": "Stephen Mathews"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 15,
         "fields": {
-            "title": "",
-            "year": 2001,
-            "pages": 275,
-            "isbn13": "13-32",
-            "rating": 0.7843572141802646,
-            "price": 17.492293178288637,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1975,
+            "pages": 171,
+            "isbn13": "978-1-79093-176-7",
+            "rating": 0.08551981009289826,
+            "price": 25.022004082606603,
+            "author": "Joshua Barry"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 16,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1961,
-            "pages": 212,
-            "isbn13": "13-32",
-            "rating": 3.531971722965992,
-            "price": 7.329963435230993,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1992,
+            "pages": 219,
+            "isbn13": "978-0-8364-7733-7",
+            "rating": 2.574256075230302,
+            "price": 13.07658151291046,
+            "author": "Eugene Farley"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 17,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1976,
-            "pages": 245,
-            "isbn13": "13-32",
-            "rating": 2.7628121908502394,
-            "price": 19.70785124404629,
-            "author": "John Doe"
+            "title": "",
+            "year": 1937,
+            "pages": 248,
+            "isbn13": "978-0-09-545704-0",
+            "rating": 0.7708265761111114,
+            "price": 6.194513510234956,
+            "author": "Jeanne Graham"
         }
     },
     {
@@ -225,12 +225,12 @@
         "pk": 18,
         "fields": {
             "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1919,
-            "pages": 203,
-            "isbn13": "13-32",
-            "rating": 0.35714144839941114,
-            "price": 18.87130012971025,
-            "author": "John Doe"
+            "year": 1936,
+            "pages": 227,
+            "isbn13": "978-0-561-40520-9",
+            "rating": 3.3547865650852375,
+            "price": 18.03130811588619,
+            "author": "Kimberly Jimenez"
         }
     },
     {
@@ -238,12 +238,12 @@
         "pk": 19,
         "fields": {
             "title": "",
-            "year": 1961,
-            "pages": 265,
-            "isbn13": "13-32",
-            "rating": 2.330833392771442,
-            "price": 2.726583435746611,
-            "author": "John Doe"
+            "year": 1951,
+            "pages": 192,
+            "isbn13": "978-0-16-101633-1",
+            "rating": 3.1665631802752916,
+            "price": 14.334625989289778,
+            "author": "Michelle Lewis"
         }
     },
     {
@@ -251,12 +251,12 @@
         "pk": 20,
         "fields": {
             "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1975,
-            "pages": 203,
-            "isbn13": "13-32",
-            "rating": 3.0177917329142363,
-            "price": 14.34268855749321,
-            "author": "John Doe"
+            "year": 1966,
+            "pages": 287,
+            "isbn13": "978-1-225-04258-7",
+            "rating": 4.6438223425544845,
+            "price": 11.310172500426827,
+            "author": "Natasha Allen"
         }
     },
     {
@@ -264,116 +264,116 @@
         "pk": 21,
         "fields": {
             "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1960,
-            "pages": 282,
-            "isbn13": "13-32",
-            "rating": 1.2531777275676759,
-            "price": 20.36077692091997,
-            "author": "John Doe"
+            "year": 1932,
+            "pages": 182,
+            "isbn13": "978-1-186-77251-6",
+            "rating": 0.723463469694818,
+            "price": 3.166612864288551,
+            "author": "Jody Golden"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 22,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 2009,
-            "pages": 264,
-            "isbn13": "13-32",
-            "rating": 2.855169573270218,
-            "price": 5.003071897628213,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1984,
+            "pages": 180,
+            "isbn13": "978-1-305-08426-1",
+            "rating": 1.2195882742625204,
+            "price": 24.180722410298554,
+            "author": "Sherri Romero"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 23,
         "fields": {
-            "title": "",
-            "year": 1909,
-            "pages": 216,
-            "isbn13": "13-32",
-            "rating": 1.2977209748551233,
-            "price": 18.872948302510363,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1905,
+            "pages": 172,
+            "isbn13": "978-1-64587-838-4",
+            "rating": 1.1639990963155815,
+            "price": 4.488817972447577,
+            "author": "Renee Kramer"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 24,
         "fields": {
-            "title": "",
-            "year": 1915,
-            "pages": 216,
-            "isbn13": "13-32",
-            "rating": 3.936096395771973,
-            "price": 10.29655081853249,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1955,
+            "pages": 160,
+            "isbn13": "978-0-602-06464-8",
+            "rating": 0.020256983841781182,
+            "price": 3.772621365474228,
+            "author": "Donald Haynes"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 25,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1966,
-            "pages": 296,
-            "isbn13": "13-32",
-            "rating": 5.081861795805679,
-            "price": 11.99581306457342,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1906,
+            "pages": 299,
+            "isbn13": "978-1-214-56509-7",
+            "rating": 2.3377709100379365,
+            "price": 19.304131778213762,
+            "author": "Sara Hart"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 26,
         "fields": {
-            "title": "",
-            "year": 1917,
-            "pages": 230,
-            "isbn13": "13-32",
-            "rating": 3.3819509382557236,
-            "price": 11.533801423997124,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 2004,
+            "pages": 217,
+            "isbn13": "978-0-321-07415-7",
+            "rating": 4.726816879868794,
+            "price": 18.123493300065995,
+            "author": "Erin Vaughn"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 27,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 2007,
-            "pages": 252,
-            "isbn13": "13-32",
-            "rating": 3.579108202127884,
-            "price": 10.57871185079865,
-            "author": "John Doe"
+            "title": "",
+            "year": 1917,
+            "pages": 176,
+            "isbn13": "978-1-09-304875-9",
+            "rating": 5.01144038032664,
+            "price": 8.915564614264316,
+            "author": "Anthony Miller"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 28,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1939,
-            "pages": 198,
-            "isbn13": "13-32",
-            "rating": 1.0090223685738613,
-            "price": 5.519168614365992,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1929,
+            "pages": 283,
+            "isbn13": "978-1-4762-2824-2",
+            "rating": 4.2912604936090135,
+            "price": 20.206300626315954,
+            "author": "Tammy Nixon"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 29,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1969,
-            "pages": 163,
-            "isbn13": "13-32",
-            "rating": 3.3179973581803344,
-            "price": 8.285513516863645,
-            "author": "John Doe"
+            "title": "",
+            "year": 1979,
+            "pages": 226,
+            "isbn13": "978-0-913494-52-3",
+            "rating": 1.7433451926897237,
+            "price": 2.0833956741593984,
+            "author": "Peter Brown"
         }
     },
     {
@@ -381,129 +381,129 @@
         "pk": 30,
         "fields": {
             "title": "",
-            "year": 1903,
-            "pages": 155,
-            "isbn13": "13-32",
-            "rating": 1.7655011735765003,
-            "price": 22.7427580082865,
-            "author": "John Doe"
+            "year": 1978,
+            "pages": 191,
+            "isbn13": "978-1-240-63800-0",
+            "rating": 3.7125058499051726,
+            "price": 8.653202125878614,
+            "author": "Roy Bryant"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 31,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1909,
-            "pages": 262,
-            "isbn13": "13-32",
-            "rating": 2.0935818754577387,
-            "price": 2.729577129150025,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1965,
+            "pages": 179,
+            "isbn13": "978-0-901112-25-5",
+            "rating": 2.618672591860651,
+            "price": 16.116866301158666,
+            "author": "Thomas Martinez"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 32,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1917,
-            "pages": 190,
-            "isbn13": "13-32",
-            "rating": 1.172738849186868,
-            "price": 14.985420608615089,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1922,
+            "pages": 248,
+            "isbn13": "978-0-520-39279-3",
+            "rating": 0.3943308384148215,
+            "price": 1.3342386390406582,
+            "author": "Joseph Wilson"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 33,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1937,
-            "pages": 292,
-            "isbn13": "13-32",
-            "rating": 2.183439550268187,
-            "price": 20.866619759901752,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1988,
+            "pages": 272,
+            "isbn13": "978-1-69919-847-6",
+            "rating": 1.9684746779788282,
+            "price": 9.247114065844636,
+            "author": "Aaron Yoder"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 34,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1992,
-            "pages": 213,
-            "isbn13": "13-32",
-            "rating": 4.257691879601211,
-            "price": 10.376126522280474,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1964,
+            "pages": 165,
+            "isbn13": "978-0-12-186489-7",
+            "rating": 4.853072039158159,
+            "price": 15.23941615221551,
+            "author": "Ashley Jones"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 35,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1926,
-            "pages": 179,
-            "isbn13": "13-32",
-            "rating": 3.1916838617790755,
-            "price": 7.95752075802355,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1999,
+            "pages": 186,
+            "isbn13": "978-1-366-47597-8",
+            "rating": 4.6995282079494025,
+            "price": 3.0973158255569495,
+            "author": "Amanda Baker"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 36,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1936,
-            "pages": 154,
-            "isbn13": "13-32",
-            "rating": 1.9433274917079466,
-            "price": 7.93587856208589,
-            "author": "John Doe"
+            "title": "",
+            "year": 1917,
+            "pages": 162,
+            "isbn13": "978-1-67977-062-3",
+            "rating": 2.306561708293498,
+            "price": 2.8975062722033544,
+            "author": "Richard Moore"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 37,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1957,
-            "pages": 280,
-            "isbn13": "13-32",
-            "rating": 2.3596812029335537,
-            "price": 24.52846098644152,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1938,
+            "pages": 268,
+            "isbn13": "978-0-461-20706-4",
+            "rating": 1.2225847686948532,
+            "price": 23.898717722981655,
+            "author": "Craig Roberts"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 38,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1932,
-            "pages": 221,
-            "isbn13": "13-32",
-            "rating": 0.4863813698402076,
-            "price": 19.224900009651268,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 2005,
+            "pages": 265,
+            "isbn13": "978-0-9785311-5-7",
+            "rating": 0.1559206913509,
+            "price": 17.019650552107567,
+            "author": "Samantha Terrell"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 39,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1998,
-            "pages": 257,
-            "isbn13": "13-32",
-            "rating": 2.8198855528527713,
-            "price": 8.491816022416566,
-            "author": "John Doe"
+            "title": "",
+            "year": 2002,
+            "pages": 195,
+            "isbn13": "978-1-06-214253-2",
+            "rating": 3.321797234278492,
+            "price": 4.864239400591459,
+            "author": "Danny Sharp"
         }
     },
     {
@@ -511,51 +511,51 @@
         "pk": 40,
         "fields": {
             "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 2006,
-            "pages": 286,
-            "isbn13": "13-32",
-            "rating": 0.24010231748216432,
-            "price": 8.58137482078508,
-            "author": "John Doe"
+            "year": 1948,
+            "pages": 210,
+            "isbn13": "978-0-209-56857-0",
+            "rating": 1.1486405772511237,
+            "price": 4.383015985416703,
+            "author": "Linda Barker"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 41,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1942,
-            "pages": 281,
-            "isbn13": "13-32",
-            "rating": 4.528851353541815,
-            "price": 2.0962311435113437,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1980,
+            "pages": 211,
+            "isbn13": "978-1-177-52540-4",
+            "rating": 0.3094578268235302,
+            "price": 5.4942313590192215,
+            "author": "Chad Smith"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 42,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1962,
-            "pages": 196,
-            "isbn13": "13-32",
-            "rating": 4.351766368173689,
-            "price": 20.90944912335654,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1978,
+            "pages": 245,
+            "isbn13": "978-0-619-26137-5",
+            "rating": 3.424606167375261,
+            "price": 13.629012181186068,
+            "author": "Debbie Phillips"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 43,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1996,
-            "pages": 161,
-            "isbn13": "13-32",
-            "rating": 4.774046040473887,
-            "price": 19.21368827841336,
-            "author": "John Doe"
+            "title": "",
+            "year": 1928,
+            "pages": 236,
+            "isbn13": "978-1-902630-29-8",
+            "rating": 4.886512227784741,
+            "price": 12.913443795343683,
+            "author": "Sarah Baker"
         }
     },
     {
@@ -563,25 +563,25 @@
         "pk": 44,
         "fields": {
             "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1904,
-            "pages": 190,
-            "isbn13": "13-32",
-            "rating": 0.19856146465365299,
-            "price": 5.224598296315867,
-            "author": "John Doe"
+            "year": 1991,
+            "pages": 165,
+            "isbn13": "978-1-57344-839-0",
+            "rating": 1.7500293726580596,
+            "price": 11.60366979572345,
+            "author": "Chris Howe"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 45,
         "fields": {
-            "title": "",
-            "year": 1971,
-            "pages": 288,
-            "isbn13": "13-32",
-            "rating": 2.46116406751809,
-            "price": 6.146747876822444,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1915,
+            "pages": 164,
+            "isbn13": "978-0-04-001355-0",
+            "rating": 1.64546306745865,
+            "price": 3.547735221571598,
+            "author": "Virginia Reynolds"
         }
     },
     {
@@ -589,25 +589,25 @@
         "pk": 46,
         "fields": {
             "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1944,
-            "pages": 264,
-            "isbn13": "13-32",
-            "rating": 0.9255980833582862,
-            "price": 2.9302233795443122,
-            "author": "John Doe"
+            "year": 1960,
+            "pages": 295,
+            "isbn13": "978-0-685-53698-8",
+            "rating": 2.4241718968155297,
+            "price": 23.61635066048156,
+            "author": "Autumn Orozco"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 47,
         "fields": {
-            "title": "",
-            "year": 1963,
-            "pages": 189,
-            "isbn13": "13-32",
-            "rating": 4.2105801172412685,
-            "price": 18.89790727571732,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1954,
+            "pages": 237,
+            "isbn13": "978-0-314-73081-7",
+            "rating": 0.21019742101030942,
+            "price": 13.584909958304769,
+            "author": "Laura Thompson"
         }
     },
     {
@@ -615,142 +615,142 @@
         "pk": 48,
         "fields": {
             "title": "",
-            "year": 1971,
-            "pages": 252,
-            "isbn13": "13-32",
-            "rating": 1.726903853134351,
-            "price": 11.768620738826018,
-            "author": "John Doe"
+            "year": 1923,
+            "pages": 219,
+            "isbn13": "978-0-908400-29-4",
+            "rating": 2.075427741989203,
+            "price": 11.119805066654475,
+            "author": "Christina Hatfield"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 49,
         "fields": {
-            "title": "",
-            "year": 1905,
-            "pages": 258,
-            "isbn13": "13-32",
-            "rating": 2.6046788180537486,
-            "price": 7.360252362416602,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1928,
+            "pages": 224,
+            "isbn13": "978-0-9897677-8-1",
+            "rating": 2.454961624602933,
+            "price": 15.178571302750784,
+            "author": "Ashley Garrett"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 50,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1951,
-            "pages": 274,
-            "isbn13": "13-32",
-            "rating": 0.24351710667618431,
-            "price": 20.111562039768046,
-            "author": "John Doe"
+            "title": "",
+            "year": 1905,
+            "pages": 152,
+            "isbn13": "978-0-7160-4361-4",
+            "rating": 0.0917964502570947,
+            "price": 25.309011283023203,
+            "author": "Stephanie Morales"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 51,
         "fields": {
-            "title": "",
-            "year": 1966,
-            "pages": 198,
-            "isbn13": "13-32",
-            "rating": 1.9203488128645696,
-            "price": 16.48446089284907,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1984,
+            "pages": 185,
+            "isbn13": "978-0-87372-497-5",
+            "rating": 3.074452445929018,
+            "price": 5.56954960424257,
+            "author": "Rhonda Parker"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 52,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1988,
-            "pages": 250,
-            "isbn13": "13-32",
-            "rating": 1.5814336400741114,
-            "price": 11.28925869895333,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1977,
+            "pages": 221,
+            "isbn13": "978-1-4475-2596-7",
+            "rating": 3.0432734450069923,
+            "price": 2.0495804057370988,
+            "author": "Nancy Martin"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 53,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1938,
-            "pages": 229,
-            "isbn13": "13-32",
-            "rating": 0.4888948038807017,
-            "price": 16.13664176442429,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1921,
+            "pages": 226,
+            "isbn13": "978-0-8394-4316-2",
+            "rating": 3.3563545214808785,
+            "price": 15.390196565370484,
+            "author": "Christopher Cook"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 54,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 2001,
-            "pages": 247,
-            "isbn13": "13-32",
-            "rating": 0.4145316430286086,
-            "price": 17.460906377742162,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1906,
+            "pages": 255,
+            "isbn13": "978-0-88933-489-2",
+            "rating": 3.38155130860891,
+            "price": 11.867212759664113,
+            "author": "Amber Gutierrez"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 55,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1944,
-            "pages": 153,
-            "isbn13": "13-32",
-            "rating": 3.639865243649379,
-            "price": 12.969157738867427,
-            "author": "John Doe"
+            "title": "",
+            "year": 1976,
+            "pages": 274,
+            "isbn13": "978-1-253-83928-9",
+            "rating": 3.7569374708813212,
+            "price": 5.441832985828411,
+            "author": "Lisa Ford"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 56,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1949,
-            "pages": 192,
-            "isbn13": "13-32",
-            "rating": 0.37418004169874247,
-            "price": 13.151535731669878,
-            "author": "John Doe"
+            "title": "",
+            "year": 1966,
+            "pages": 194,
+            "isbn13": "978-0-449-00064-9",
+            "rating": 1.6289909571142032,
+            "price": 5.086188491531971,
+            "author": "Lauren Spencer"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 57,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1906,
-            "pages": 275,
-            "isbn13": "13-32",
-            "rating": 2.8690906038418706,
-            "price": 16.268669888632914,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1995,
+            "pages": 193,
+            "isbn13": "978-0-08-290995-8",
+            "rating": 1.8364354330196653,
+            "price": 4.950583291469528,
+            "author": "Veronica Lee"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 58,
         "fields": {
-            "title": "",
-            "year": 1978,
-            "pages": 191,
-            "isbn13": "13-32",
-            "rating": 0.5898165750986465,
-            "price": 24.90385515268008,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1969,
+            "pages": 217,
+            "isbn13": "978-1-990380-75-4",
+            "rating": 3.841413897013,
+            "price": 18.324528481799643,
+            "author": "Kathryn Dawson"
         }
     },
     {
@@ -758,12 +758,12 @@
         "pk": 59,
         "fields": {
             "title": "Лев Толстой «Война и мир»\n",
-            "year": 1923,
-            "pages": 202,
-            "isbn13": "13-32",
-            "rating": 4.880058956695616,
-            "price": 22.66439064511942,
-            "author": "John Doe"
+            "year": 1959,
+            "pages": 172,
+            "isbn13": "978-1-07-230291-9",
+            "rating": 2.368415583685116,
+            "price": 13.137094719693902,
+            "author": "Lisa Lamb"
         }
     },
     {
@@ -771,337 +771,337 @@
         "pk": 60,
         "fields": {
             "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1961,
-            "pages": 233,
-            "isbn13": "13-32",
-            "rating": 4.734503146933359,
-            "price": 12.803780425162977,
-            "author": "John Doe"
+            "year": 1968,
+            "pages": 153,
+            "isbn13": "978-0-7982-1085-0",
+            "rating": 1.583111150776806,
+            "price": 8.988009185536587,
+            "author": "Nicole Silva"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 61,
         "fields": {
-            "title": "",
-            "year": 1996,
-            "pages": 265,
-            "isbn13": "13-32",
-            "rating": 3.891001938334248,
-            "price": 11.554309881666464,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1975,
+            "pages": 259,
+            "isbn13": "978-0-625-59181-7",
+            "rating": 4.795125245980011,
+            "price": 21.11585192911916,
+            "author": "Gabriela Daniel"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 62,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1912,
-            "pages": 222,
-            "isbn13": "13-32",
-            "rating": 2.5238860036878314,
-            "price": 11.528291300160355,
-            "author": "John Doe"
+            "title": "",
+            "year": 1931,
+            "pages": 161,
+            "isbn13": "978-1-62464-191-6",
+            "rating": 1.9857103545460983,
+            "price": 18.085565082035977,
+            "author": "Ashley Combs"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 63,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1977,
-            "pages": 235,
-            "isbn13": "13-32",
-            "rating": 5.013108888490987,
-            "price": 24.13219877751591,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1959,
+            "pages": 272,
+            "isbn13": "978-0-02-618074-0",
+            "rating": 3.9178577185803865,
+            "price": 5.077695994585351,
+            "author": "Randall Wheeler"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 64,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1906,
-            "pages": 273,
-            "isbn13": "13-32",
-            "rating": 0.8473207906785286,
-            "price": 17.631275333317653,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1969,
+            "pages": 209,
+            "isbn13": "978-0-537-66580-4",
+            "rating": 3.1716614111551604,
+            "price": 22.6577548784143,
+            "author": "Jessica Gilbert"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 65,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 2008,
-            "pages": 299,
-            "isbn13": "13-32",
-            "rating": 3.0104958565050937,
-            "price": 1.6167524016367687,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1918,
+            "pages": 257,
+            "isbn13": "978-1-82784-799-3",
+            "rating": 3.9312123632593843,
+            "price": 16.59685362643166,
+            "author": "Jennifer Wright"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 66,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1965,
-            "pages": 258,
-            "isbn13": "13-32",
-            "rating": 4.756937663896212,
-            "price": 7.844273456360498,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1939,
+            "pages": 282,
+            "isbn13": "978-1-86252-608-2",
+            "rating": 4.587041754471241,
+            "price": 1.8588191509516052,
+            "author": "Jamie Morton"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 67,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1997,
-            "pages": 203,
-            "isbn13": "13-32",
-            "rating": 4.03460802181142,
-            "price": 2.7703002286357465,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1904,
+            "pages": 231,
+            "isbn13": "978-1-5441-4488-7",
+            "rating": 0.47030044039181523,
+            "price": 14.244969228688271,
+            "author": "Sonya Foster"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 68,
         "fields": {
-            "title": "",
-            "year": 1973,
-            "pages": 214,
-            "isbn13": "13-32",
-            "rating": 0.5783049026219524,
-            "price": 1.8621866754683718,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1901,
+            "pages": 186,
+            "isbn13": "978-0-583-51170-4",
+            "rating": 3.7270952202463605,
+            "price": 2.426085819789045,
+            "author": "Megan Larson"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 69,
         "fields": {
-            "title": "",
-            "year": 1984,
-            "pages": 258,
-            "isbn13": "13-32",
-            "rating": 4.6803056065631745,
-            "price": 25.204658371098905,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1912,
+            "pages": 264,
+            "isbn13": "978-1-09-775470-0",
+            "rating": 1.221928567305976,
+            "price": 18.653805700915143,
+            "author": "Nicholas Mckinney"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 70,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1919,
-            "pages": 182,
-            "isbn13": "13-32",
-            "rating": 3.208509369845363,
-            "price": 14.417535615007349,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1981,
+            "pages": 237,
+            "isbn13": "978-0-443-75371-8",
+            "rating": 3.084227624437585,
+            "price": 16.36783397721234,
+            "author": "Lance Mullins"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 71,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1997,
-            "pages": 272,
-            "isbn13": "13-32",
-            "rating": 2.4735169507696866,
-            "price": 1.0368362359331464,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1932,
+            "pages": 261,
+            "isbn13": "978-1-55482-533-2",
+            "rating": 2.1962503093546726,
+            "price": 19.52682209277455,
+            "author": "Joseph Simpson"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 72,
         "fields": {
-            "title": "",
-            "year": 1967,
-            "pages": 257,
-            "isbn13": "13-32",
-            "rating": 1.433260717881263,
-            "price": 11.875335733584999,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1907,
+            "pages": 191,
+            "isbn13": "978-0-403-85793-7",
+            "rating": 2.598813777992028,
+            "price": 1.69411112241667,
+            "author": "Jacob Sims"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 73,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1910,
-            "pages": 275,
-            "isbn13": "13-32",
-            "rating": 2.7737688563727954,
-            "price": 6.66865044249237,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1976,
+            "pages": 261,
+            "isbn13": "978-1-4683-2026-8",
+            "rating": 2.1215214638031306,
+            "price": 10.344255330300811,
+            "author": "Andrew Mendoza"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 74,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1926,
-            "pages": 174,
-            "isbn13": "13-32",
-            "rating": 0.8766412665401428,
-            "price": 16.160315715491805,
-            "author": "John Doe"
+            "title": "",
+            "year": 1991,
+            "pages": 215,
+            "isbn13": "978-1-56197-506-8",
+            "rating": 3.6274589498666368,
+            "price": 15.831758958116474,
+            "author": "Anthony Ochoa"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 75,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1910,
-            "pages": 173,
-            "isbn13": "13-32",
-            "rating": 4.847195110624154,
-            "price": 17.70115317425259,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1904,
+            "pages": 210,
+            "isbn13": "978-1-05-189467-1",
+            "rating": 0.2137802630389691,
+            "price": 21.981995224368347,
+            "author": "Kevin Rivera"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 76,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1970,
-            "pages": 206,
-            "isbn13": "13-32",
-            "rating": 1.3753029947341966,
-            "price": 1.5951727326197553,
-            "author": "John Doe"
+            "title": "",
+            "year": 1990,
+            "pages": 203,
+            "isbn13": "978-0-297-70222-1",
+            "rating": 0.07093960893925579,
+            "price": 12.88860722485286,
+            "author": "John Anderson"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 77,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1953,
-            "pages": 241,
-            "isbn13": "13-32",
-            "rating": 1.1459494223151132,
-            "price": 24.397636244442314,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1990,
+            "pages": 163,
+            "isbn13": "978-1-72316-820-8",
+            "rating": 2.2864030041275676,
+            "price": 19.71914485407146,
+            "author": "Bryan Yang"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 78,
         "fields": {
-            "title": "",
-            "year": 1953,
-            "pages": 291,
-            "isbn13": "13-32",
-            "rating": 1.4117921556024664,
-            "price": 9.347523653067007,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1943,
+            "pages": 161,
+            "isbn13": "978-1-81941-998-6",
+            "rating": 4.556699866019069,
+            "price": 15.25518132573126,
+            "author": "Brianna Simmons"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 79,
         "fields": {
-            "title": "",
-            "year": 1933,
-            "pages": 160,
-            "isbn13": "13-32",
-            "rating": 1.5836081466598886,
-            "price": 15.827300134463142,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1926,
+            "pages": 288,
+            "isbn13": "978-1-971109-52-7",
+            "rating": 5.007678547879193,
+            "price": 18.423146533797443,
+            "author": "Mrs. Yolanda Wang"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 80,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1931,
-            "pages": 191,
-            "isbn13": "13-32",
-            "rating": 2.18345515549996,
-            "price": 14.752761260217424,
-            "author": "John Doe"
+            "title": "",
+            "year": 1965,
+            "pages": 193,
+            "isbn13": "978-0-07-695938-9",
+            "rating": 0.9736924830105399,
+            "price": 8.368915230154654,
+            "author": "Michelle Best"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 81,
         "fields": {
-            "title": "",
-            "year": 1946,
-            "pages": 235,
-            "isbn13": "13-32",
-            "rating": 0.7908226052691281,
-            "price": 24.96695663114431,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1943,
+            "pages": 300,
+            "isbn13": "978-0-9603469-0-5",
+            "rating": 4.360409911383642,
+            "price": 18.258745780085917,
+            "author": "Nicole Pennington"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 82,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 2000,
-            "pages": 205,
-            "isbn13": "13-32",
-            "rating": 4.753673759901115,
-            "price": 4.107719468405742,
-            "author": "John Doe"
+            "title": "",
+            "year": 1956,
+            "pages": 196,
+            "isbn13": "978-0-00-547293-4",
+            "rating": 5.01207872013134,
+            "price": 1.7089132818432424,
+            "author": "Marie Williams"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 83,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1948,
-            "pages": 261,
-            "isbn13": "13-32",
-            "rating": 4.540323414951362,
-            "price": 9.627368746209791,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1980,
+            "pages": 164,
+            "isbn13": "978-1-79097-371-2",
+            "rating": 2.6011868448344164,
+            "price": 22.362112408091665,
+            "author": "Kaitlyn Smith"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 84,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1911,
-            "pages": 263,
-            "isbn13": "13-32",
-            "rating": 1.7583319690376775,
-            "price": 17.320851643730045,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1939,
+            "pages": 169,
+            "isbn13": "978-1-995502-23-6",
+            "rating": 3.6318719124137435,
+            "price": 11.716228253287742,
+            "author": "Autumn Jensen"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 85,
         "fields": {
-            "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 2002,
-            "pages": 188,
-            "isbn13": "13-32",
-            "rating": 4.077469465665596,
-            "price": 21.921427421377377,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 2007,
+            "pages": 210,
+            "isbn13": "978-1-223-99900-5",
+            "rating": 4.428289558461976,
+            "price": 10.249285011987965,
+            "author": "James Henderson"
         }
     },
     {
@@ -1109,51 +1109,51 @@
         "pk": 86,
         "fields": {
             "title": "",
-            "year": 1998,
-            "pages": 242,
-            "isbn13": "13-32",
-            "rating": 3.2804904618283444,
-            "price": 3.251158364609561,
-            "author": "John Doe"
+            "year": 1914,
+            "pages": 208,
+            "isbn13": "978-0-442-14335-0",
+            "rating": 4.895445300195568,
+            "price": 3.65003533969531,
+            "author": "Melvin Russo"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 87,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 2001,
-            "pages": 221,
-            "isbn13": "13-32",
-            "rating": 0.5247443888961257,
-            "price": 8.460411329536594,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 1948,
+            "pages": 212,
+            "isbn13": "978-1-66515-522-9",
+            "rating": 5.034784861302445,
+            "price": 5.309945130115947,
+            "author": "Thomas Page"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 88,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1970,
-            "pages": 255,
-            "isbn13": "13-32",
-            "rating": 2.373274726844874,
-            "price": 21.941531782732543,
-            "author": "John Doe"
+            "title": "",
+            "year": 1903,
+            "pages": 275,
+            "isbn13": "978-1-179-46981-2",
+            "rating": 2.1311523447354457,
+            "price": 21.19662882049329,
+            "author": "David Barry"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 89,
         "fields": {
-            "title": "Лев Толстой «Война и мир»\n",
-            "year": 1971,
-            "pages": 206,
-            "isbn13": "13-32",
-            "rating": 4.855678389999125,
-            "price": 1.899968712403301,
-            "author": "John Doe"
+            "title": "",
+            "year": 1968,
+            "pages": 195,
+            "isbn13": "978-0-302-69970-6",
+            "rating": 4.691579688470394,
+            "price": 23.35383142391831,
+            "author": "William Lee"
         }
     },
     {
@@ -1161,103 +1161,103 @@
         "pk": 90,
         "fields": {
             "title": "",
-            "year": 1979,
-            "pages": 180,
-            "isbn13": "13-32",
-            "rating": 3.016929585059164,
-            "price": 4.164389570919326,
-            "author": "John Doe"
+            "year": 1953,
+            "pages": 273,
+            "isbn13": "978-0-674-94103-8",
+            "rating": 2.0340815669493346,
+            "price": 2.719643031817104,
+            "author": "Bill Fritz"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 91,
         "fields": {
-            "title": "",
-            "year": 1923,
-            "pages": 164,
-            "isbn13": "13-32",
-            "rating": 2.4195599366502814,
-            "price": 12.273391786024842,
-            "author": "John Doe"
+            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
+            "year": 1981,
+            "pages": 212,
+            "isbn13": "978-1-399-51863-5",
+            "rating": 0.7723700851993216,
+            "price": 20.639848369539543,
+            "author": "Alex Long"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 92,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1945,
-            "pages": 265,
-            "isbn13": "13-32",
-            "rating": 3.906497454132148,
-            "price": 22.016427773832252,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1950,
+            "pages": 291,
+            "isbn13": "978-1-79637-231-1",
+            "rating": 0.27958947120176536,
+            "price": 20.53272536643322,
+            "author": "Emily Crawford"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 93,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1993,
-            "pages": 291,
-            "isbn13": "13-32",
-            "rating": 3.065813247208846,
-            "price": 6.421133733030222,
-            "author": "John Doe"
+            "title": "Лев Толстой «Война и мир»\n",
+            "year": 1983,
+            "pages": 233,
+            "isbn13": "978-1-256-85824-9",
+            "rating": 1.728712041835266,
+            "price": 12.011511194193677,
+            "author": "Jackson George"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 94,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1934,
-            "pages": 295,
-            "isbn13": "13-32",
-            "rating": 4.173201407186173,
-            "price": 6.088571448473418,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1909,
+            "pages": 159,
+            "isbn13": "978-1-4765-9089-9",
+            "rating": 4.347608143109286,
+            "price": 11.194585260838922,
+            "author": "Michael Lopez"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 95,
         "fields": {
-            "title": "Стивен Кинг «Зеленая миля»\n",
-            "year": 1980,
-            "pages": 178,
-            "isbn13": "13-32",
-            "rating": 3.624285802187634,
-            "price": 3.0525308496506645,
-            "author": "John Doe"
+            "title": "",
+            "year": 1958,
+            "pages": 196,
+            "isbn13": "978-0-7700-8924-5",
+            "rating": 4.629929234732781,
+            "price": 16.529058229357467,
+            "author": "Matthew Dodson"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 96,
         "fields": {
-            "title": "Михаил Булгаков «Мастер и Маргарита»\n",
-            "year": 1970,
-            "pages": 206,
-            "isbn13": "13-32",
-            "rating": 3.152271598496944,
-            "price": 21.717470654991214,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 1909,
+            "pages": 256,
+            "isbn13": "978-1-221-37657-0",
+            "rating": 3.0751910591322926,
+            "price": 19.82504700601509,
+            "author": "Joseph Gilmore"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 97,
         "fields": {
-            "title": "",
-            "year": 2005,
-            "pages": 248,
-            "isbn13": "13-32",
-            "rating": 4.310591133413675,
-            "price": 25.06787993403925,
-            "author": "John Doe"
+            "title": "Стивен Кинг «Зеленая миля»\n",
+            "year": 2002,
+            "pages": 249,
+            "isbn13": "978-0-05-750249-8",
+            "rating": 4.688365256607665,
+            "price": 25.596261974032128,
+            "author": "Courtney Campbell"
         }
     },
     {
@@ -1265,12 +1265,12 @@
         "pk": 98,
         "fields": {
             "title": "Лев Толстой «Война и мир»\n",
-            "year": 1908,
-            "pages": 246,
-            "isbn13": "13-32",
-            "rating": 4.1202185735766195,
-            "price": 7.218892402425631,
-            "author": "John Doe"
+            "year": 1973,
+            "pages": 205,
+            "isbn13": "978-1-04-364850-3",
+            "rating": 1.6288708066390392,
+            "price": 8.32593212469349,
+            "author": "Austin Lawson"
         }
     },
     {
@@ -1278,25 +1278,25 @@
         "pk": 99,
         "fields": {
             "title": "Фрэнк Герберт «Дюна»\n",
-            "year": 1931,
-            "pages": 202,
-            "isbn13": "13-32",
-            "rating": 4.895444853247961,
-            "price": 5.113672341924298,
-            "author": "John Doe"
+            "year": 1984,
+            "pages": 248,
+            "isbn13": "978-0-257-66734-8",
+            "rating": 4.97138081642355,
+            "price": 19.073526240053738,
+            "author": "Mr. Eric Friedman"
         }
     },
     {
         "model": "shop_final.book\n",
         "pk": 100,
         "fields": {
-            "title": "",
-            "year": 2007,
-            "pages": 246,
-            "isbn13": "13-32",
-            "rating": 3.170090055529515,
-            "price": 3.0329705937336318,
-            "author": "John Doe"
+            "title": "Фрэнк Герберт «Дюна»\n",
+            "year": 2008,
+            "pages": 152,
+            "isbn13": "978-1-64316-821-0",
+            "rating": 2.5023742894137535,
+            "price": 17.51348406430703,
+            "author": "Kristin Johnson"
         }
     }
 ]
